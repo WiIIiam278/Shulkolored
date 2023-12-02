@@ -1,7 +1,6 @@
 package net.william278.shulkolored;
 
 import org.bukkit.DyeColor;
-import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Shulker;
 import org.bukkit.event.EventHandler;

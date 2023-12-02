@@ -1,0 +1,4 @@
+name: Shulkolored
+version: '${version}'
+main: net.william278.shulkolored.Shulkolored
+api-version: '1.20'
